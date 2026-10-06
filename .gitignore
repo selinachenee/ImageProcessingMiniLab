@@ -1,0 +1,15 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+
+# MATLAB generated files
+*.mex*
+slprj/
+codegen/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Keep the old development backup local
+image_processing_lab_v1_4.m
